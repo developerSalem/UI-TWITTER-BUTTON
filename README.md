@@ -1,4 +1,4 @@
-# UI-TWITTER-CARD
+# UI-TWITTER-BUTTON
 
 React Twitter Follow/Unfollow Button
 Este repositorio contiene el código fuente para un componente de botón de "Follow" (seguir) y "Unfollow" (dejar de seguir) de Twitter construido con React. Este componente de botón puede ser utilizado en aplicaciones web o proyectos basados en React para permitir a los usuarios seguir o dejar de seguir a otros usuarios en Twitter.
